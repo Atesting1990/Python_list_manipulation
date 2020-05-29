@@ -1,5 +1,5 @@
 # Python_list_manipulation
-This is a py pgm created for fwg list manipulations on a odd-square-matrix:
+This is a py pgm created for fwg list manipulations on a 2D odd-square-matrix:
 a) Hollow Square
 b) Diamond
 c) Centre Row/Column
